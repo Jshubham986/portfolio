@@ -186,9 +186,8 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
-      description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      name: "Parceler ",
+      description:"Parceler is a courier service is a company that provides fast or quick, door to door pickup and delivery service for goods, packages, parcels, letters, documents, or other items.",
       tags: [
         {
           name: "react",
@@ -199,7 +198,7 @@ import {
           color: "green-text-gradient",
         },
         {
-          name: "tailwind",
+          name: "scss",
           color: "pink-text-gradient",
         },
       ],
@@ -207,9 +206,9 @@ import {
       source_code_link: "https://github.com/",
     },
     {
-      name: "Job IT",
+      name: "Bank Cash Slip",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "Bank Book is use for Cash Deposite slip. Using This application  Customer can Fill the deposit Slip according to corresponding bank account. Customer can add multiple bank accounts in this application.",
       tags: [
         {
           name: "react",
@@ -228,7 +227,7 @@ import {
       source_code_link: "https://github.com/",
     },
     {
-      name: "Trip Guide",
+      name: "Bank Slip",
       description:
         "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
       tags: [
